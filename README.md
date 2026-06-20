@@ -45,7 +45,7 @@ Quarterly User Growth Trend
 <img width="1331" height="747" alt="image" src="https://github.com/user-attachments/assets/bfd9d44e-7aa4-44cc-ab5f-e7d37be1bb81" />
 
 
-5. Business Insights Dashboard
+4. Business Insights Dashboard
 Transaction Growth Trend
 User Growth Trend
 Highest Transaction State
